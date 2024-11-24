@@ -1,0 +1,22 @@
+.img1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bgimg{
+    background-image: url('./images/background.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.pen{
+  height: 225px;
+  width: 224px;
+}
+body{
+  
+  flex-wrap: wrap;
+}
+.text-white{
+color: white;
+}
